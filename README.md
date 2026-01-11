@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 🌱 currently learning fullstack things (INF.03 exam – early 2027)<br>
 💬 ask me anything, I might help<br>
 ⚡ fun fact: I don't have any, lol<br>
-pronouns: he/it/they/xe (even if my papers say otherwise)
+pronouns: he/it/they/xe (even if my papers say otherwise)<br>
+languages I speak: PL/ENG (learning: Czech)
 
 
 ## 🌐 Socials:
