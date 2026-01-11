@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 i’m currently working on various random things
-🌱 currently learning fullstack things (INF.03 exam – early 2027)
-💬 ask me anything, I might help
-⚡ fun fact: I don't have any, lol
+🔭 i’m currently working on various random things<br>
+🌱 currently learning fullstack things (INF.03 exam – early 2027)<br>
+💬 ask me anything, I might help<br>
+⚡ fun fact: I don't have any, lol<br>
 pronouns: he/it/they/xe (even if my papers say otherwise)
 
 
