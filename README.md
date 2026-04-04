@@ -5,7 +5,7 @@
 📫 how to reach me: on insta, discord and probably anywhere else: wegrzvnxwski._<br>
 😄 pronouns: he/it/they/xe (even if my documents say otherwise)<br>
 ⚡ fun fact: I'm way too interested in DICOM for people my age.<br>
-📝 languages i speak: pl (native), eng (ca. C1), cz (not even A1 at this point)
+📝 languages i speak: pl (native), eng (ca. C1), cz (not even A1 at this point)<br>
 🐧 fellow Linux user
 
 
